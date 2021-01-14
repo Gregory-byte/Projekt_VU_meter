@@ -10,7 +10,7 @@ Aby wykonać powyższy projekt potrzebujemy następujacych elementów:
 
 <ul>
 <li> 1x  płyta testowa (umażliwijąca budawanie układu) </li>
-<li> 12x 5mm LEDs </li>
+<li> 12x 5mm LED </li>
 <li> 12x 100 ohm rezystorów </li>
 <li> 1x  Arduino UNO/nano </li>
 <li> 1x  3.5mm przewód jack </li>
@@ -18,12 +18,13 @@ Aby wykonać powyższy projekt potrzebujemy następujacych elementów:
 <li> 1x  rozdzielacz audio (opcjonalnie) </li>
 <li> kabelki połączeniowe </li>
 </ul>
+<h2> Zdjęcia wykonanego układu </h2>
 
 ![20210109_183951](https://user-images.githubusercontent.com/75728467/104597755-02522680-5676-11eb-8acb-8ece2e487958.jpg)
 ![20210109_183957](https://user-images.githubusercontent.com/75728467/104597774-09793480-5676-11eb-9966-06defcba2363.jpg)
 ![20210109_184009](https://user-images.githubusercontent.com/75728467/104597777-0bdb8e80-5676-11eb-9504-1d598935cb39.jpg)
 
-
+<h2> Kod programu wraz z opisem</h2>
 ```
 
 int music = A0; // podanie sygnału analogowwego (muzyki) z laptopa na wejście A0 w płytce arduino
@@ -67,7 +68,7 @@ output = output/potval;
 }
 
 ```
-
+<h2> Film </h2>
 Poniżej zamieszczam link do swojego dysku google, gdzie znaduję się krótki filmik przedstawiajacy działanie mojego układu.
 
 https://drive.google.com/drive/folders/1gcG673Rvffiad0akWI7Ypqfu3KhraC6r?usp=sharing
