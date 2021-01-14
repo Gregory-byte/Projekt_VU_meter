@@ -37,7 +37,7 @@ potval=analogRead(A1);
 output = analogRead(music);
 potval=map (potval,0,1024,5,40);
 output = output/potval;   
-
+}
   if (output == 0) 
    {
    for(a = 0; a < 12; a++)
@@ -51,7 +51,6 @@ output = output/potval;
    for (a = 0; a < output; a++)
     {
      digitalWrite(number_of_led[a], HIGH);
-    }
     
     for(a = a; a < 12; a++) 
      {
@@ -60,6 +59,7 @@ output = output/potval;
      }
   }
 }
+{
 
 Poniżej zamieszczam link do swojego dysku google, gdzie znaduję się krótki filmik przedstawiajacy działanie mojego układu.
 
