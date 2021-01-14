@@ -62,7 +62,7 @@ output = output/potval;
     
     for(a = a; a < 12; a++) 
      {
-      digitalWrite(number_of_led[a], LOW);
+      digitalWrite(number_of_led[a], LOW); // określenie stanu nieskiego kiedy sygnał nie jest podawany na wejście
     
      }
   }
