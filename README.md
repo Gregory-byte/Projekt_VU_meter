@@ -26,7 +26,7 @@ Ma to na celu pokazanie poziomu wysterownia sygnału jaki mamy na wyjściu jack 
 
 <h2> Kod programu wraz z opisem</h2>
 
-```
+``` c++
 
 int music = A0; // podanie sygnału analogowwego (muzyki) z laptopa na wejście A0 w płytce arduino
 int output,a;
