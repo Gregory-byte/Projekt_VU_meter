@@ -8,14 +8,18 @@ Ma to na celu pokazanie poziomu wysterownia sygna³u jaki mamy na wyjœciu jack 3,
 
 Things needed to make this LED vu meter using arduino:-
 
-1)  1x  breadboard
-2)  12x 5mm LEDs
-3)  12x 100 ohm resistors
-4)  1x  Arduino UNO/nano
-5)  1x  3.5mm headphone jack
-6)  1x  10k potentiometer
-7)  1x  audio splitter (optional)
-8)  breadboard connectors
+<ul>
+
+
+<li> 1x  breadboard </li>
+<li> 12x 5mm LEDs </li>
+<li> 12x 100 ohm resistors </li>
+<li> 1x  Arduino UNO/nano </li>
+<li> 1x  3.5mm headphone jack </li>
+<li> 1x  10k potentiometer </li>
+<li> 1x  audio splitter (optional) </li>
+<li> breadboard connector </li>
+</ul>
 
 Poni¿ej zamieszczam link do swojego dysku google, gdzie znadujê siê krótki filmik przedstawiajacy dzia³anie mojego uk³adu.
 
