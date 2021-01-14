@@ -28,28 +28,28 @@ Things needed to make this LED vu meter using arduino:-
 
 ```
 
-int music = A0;
+int music = A0; // podanie sygnału analogowwego (muzyki) z laptopa na wejście A0 w płytce arduino
 int output,a;
-int potval=A1;
-int number_of_led[12] = { 2,3,4,5,6,7,8,9,10,11,12,13};
+int potval=A1; // podanie wartości potencjometru na wejście A1 płytki arduino
+int number_of_led[12] = { 2,3,4,5,6,7,8,9,10,11,12,13}; //przypisanie diod do wyjść z płytki arduino
 void setup()
 {
-for (a = 0; a < 12; a++)  
-  pinMode(number_of_led[a], OUTPUT);
+for (a = 0; a < 12; a++)
+  pinMode(number_of_led[a], OUTPUT); //podanie wartości poszczególnych diod led i przypisanie do poszczególnych wyjść
 }
 
 void loop()
 {
-potval=analogRead(A1);
-output = analogRead(music);
-potval=map (potval,0,1024,5,40);
+potval=analogRead(A1); // odczytanie wartości z potencjometru
+output = analogRead(music); // odczyt muzyki z wejścia układu
+potval=map (potval,0,1024,5,40); // przypisanie wartości sygnału audio na wyjście układu
 output = output/potval;   
 
   if (output == 0) 
    {
    for(a = 0; a < 12; a++)
      {
-     digitalWrite(number_of_led[a], LOW);
+     digitalWrite(number_of_led[a], LOW); // określernie stanu niskiego
      }
   }
   
@@ -57,7 +57,7 @@ output = output/potval;
   {
    for (a = 0; a < output; a++)
     {
-     digitalWrite(number_of_led[a], HIGH);
+     digitalWrite(number_of_led[a], HIGH); // określenie stanu wysokiego
     }
     
     for(a = a; a < 12; a++) 
