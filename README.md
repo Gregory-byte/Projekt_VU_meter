@@ -23,7 +23,7 @@ Things needed to make this LED vu meter using arduino:-
 
 [GitHub Logo](/D:/Studia/Technika Mikroprocesorowa/V semestr/Projekt_VU_Meter/20210109_183951.jpg)
 
-\\<img src = "D:/Studia/Technika Mikroprocesorowa/V semestr/Projekt_VU_Meter/20210109_183951.jpg" width="600" height="500">
+<img src = "C:/Users/dell/Desktop/Projekt_VU_meter/20210109_183951.jpg" width="600" height="500">
 
 Poni¿ej zamieszczam link do swojego dysku google, gdzie znadujê siê krótki filmik przedstawiajacy dzia³anie mojego uk³adu.
 
