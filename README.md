@@ -70,6 +70,7 @@ output = output/potval;
 
 ```
 <h2> Film </h2>
+
 Poniżej zamieszczam link do swojego dysku google, gdzie znaduję się krótki filmik przedstawiajacy działanie mojego układu.
 
-https://drive.google.com/drive/folders/1gcG673Rvffiad0akWI7Ypqfu3KhraC6r?usp=sharing
+https://drive.google.com/file/d/1g1DYNkjh7ZzsLNGmBUaozhyz18oAGui6/view?usp=sharing
