@@ -21,11 +21,6 @@ Things needed to make this LED vu meter using arduino:-
 <li> breadboard connector </li>
 </ul>
 
-[GitHub Logo](/D:/Studia/Technika Mikroprocesorowa/V semestr/Projekt_VU_Meter/20210109_183951.jpg)
-
-<img src = "C:/Users/dell/Desktop/Projekt_VU_meter/20210109_183951.jpg" width="600" height="500">
-
 Poniżej zamieszczam link do swojego dysku google, gdzie znaduję się krótki filmik przedstawiajacy działanie mojego układu.
-
 
 https://drive.google.com/drive/folders/1gcG673Rvffiad0akWI7Ypqfu3KhraC6r?usp=sharing
