@@ -1,5 +1,7 @@
 # Projekt_VU_meter
 
+<h2> Opis projektu </h2>
+
 Uk³ad ma za zadanie zapalaæ poszczególne diody - od zielonych do czerwonych, w zale¿noœci od wykrytego poziomu sgna³u audio z wyjœcia laptopa.
 
 Ma to na celu pokazanie poziomu wysterownia sygna³u jaki mamy na wyjœciu jack 3,5mm w laptopie. Dzieki tej informacji jesteœmy w stanie tak dopasowaæ sygna³ wyjœciowy, aby podany sygna³ adudio np. na pramap wzmacniacza nie by³ przesterowany co zapobiegnie dalszemu zniekszta³ceniu. sygna³u.
