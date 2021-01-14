@@ -20,7 +20,7 @@ Things needed to make this LED vu meter using arduino:-
 <li> 1x  audio splitter (optional) </li>
 <li> breadboard connector </li>
 </ul>
-'''
+```
 int music = A0;
 int output,a;
 int potval=A1;
@@ -60,7 +60,7 @@ output = output/potval;
      }
   }
 }
-'''
+```
 
 Poniżej zamieszczam link do swojego dysku google, gdzie znaduję się krótki filmik przedstawiajacy działanie mojego układu.
 
