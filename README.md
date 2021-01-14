@@ -6,7 +6,7 @@ Układ ma za zadanie zapalać poszczególne diody - od zielonych do czerwonych, 
 
 Ma to na celu pokazanie poziomu wysterownia sygnału jaki mamy na wyjściu jack 3,5mm w laptopie. Dzieki tej informacji jesteśmy w stanie tak dopasować sygnał wyjściowy, aby podany sygnał adudio np. na pramap wzmacniacza nie był przesterowany co zapobiegnie dalszemu zniekształceniu. sygnału.
 
-Aby wykonać powyższy projekt potrzebujemy następujacych elementów:
+<h2> Wykaz elementów </h2>
 
 <ul>
 <li> 1x  płyta testowa (umażliwijąca budawanie układu) </li>
@@ -25,6 +25,7 @@ Aby wykonać powyższy projekt potrzebujemy następujacych elementów:
 ![20210109_184009](https://user-images.githubusercontent.com/75728467/104597777-0bdb8e80-5676-11eb-9504-1d598935cb39.jpg)
 
 <h2> Kod programu wraz z opisem</h2>
+
 ```
 
 int music = A0; // podanie sygnału analogowwego (muzyki) z laptopa na wejście A0 w płytce arduino
