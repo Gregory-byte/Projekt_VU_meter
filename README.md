@@ -74,3 +74,9 @@ output = output/potval;
 Poniżej zamieszczam link do swojego dysku google, gdzie znaduję się krótki filmik przedstawiajacy działanie mojego układu.
 
 https://drive.google.com/file/d/1g1DYNkjh7ZzsLNGmBUaozhyz18oAGui6/view?usp=sharing
+
+<h2> Podsumowanie </h2>
+
+Realizując powyższy układ jesteśmy w stanie kontrolować poziom wyjściowy sygnału wyjściowego ze źródła. Umożliwia nam to jego odpowieniednie dopsowanie do danego urządzenia, aby uniknąć podawania zbyt niskiego lub wysokiego poziomu sygnału.
+Unikamy również przesterowywania sygnału tzn. zjawiska (jeśli sygnał mu ulegnie) zniekształcenia sygnału, co po podaniu go np. na wzmacniacz audio spowoduje wzmocnienie zniekształóceń, co będzie dl nas słyszalne.
+Kolory diod nie zostały dobrane przypadkowao - zielone pokazują prawidłową wartość sygnału - bezpieczną dla urządzeń wejściowych. Żółte diody to wartości graniczne - sygnał jest an granicy zniekształcenia oraz diody czerwone - zapalające się wtedy kiedy wartość sygnału jest zbyt wysoka i kiedy ulega on zniekształceniu.
