@@ -22,7 +22,6 @@ Things needed to make this LED vu meter using arduino:-
 </ul>
 
 ![GitHub Logo](D:/Studia/Technika Mikroprocesorowa/V semestr/Projekt_VU_Meter/20210109_183951.jpg)
-Format: ![Zdjêcie 1](url)
 
 \\<img src = "D:/Studia/Technika Mikroprocesorowa/V semestr/Projekt_VU_Meter/20210109_183951.jpg" width="600" height="500">
 
