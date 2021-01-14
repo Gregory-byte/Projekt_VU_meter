@@ -6,19 +6,17 @@ Układ ma za zadanie zapalać poszczególne diody - od zielonych do czerwonych, 
 
 Ma to na celu pokazanie poziomu wysterownia sygnału jaki mamy na wyjściu jack 3,5mm w laptopie. Dzieki tej informacji jesteśmy w stanie tak dopasować sygnał wyjściowy, aby podany sygnał adudio np. na pramap wzmacniacza nie był przesterowany co zapobiegnie dalszemu zniekształceniu. sygnału.
 
-Things needed to make this LED vu meter using arduino:-
+Aby wykonać powyższy projekt potrzebujemy następujacych elementów:
 
 <ul>
-
-
-<li> 1x  breadboard </li>
+<li> 1x  płyta testowa (umażliwijąca budawanie układu) </li>
 <li> 12x 5mm LEDs </li>
-<li> 12x 100 ohm resistors </li>
+<li> 12x 100 ohm rezystorów </li>
 <li> 1x  Arduino UNO/nano </li>
-<li> 1x  3.5mm headphone jack </li>
-<li> 1x  10k potentiometer </li>
-<li> 1x  audio splitter (optional) </li>
-<li> breadboard connector </li>
+<li> 1x  3.5mm przewód jack </li>
+<li> 1x  10k potencjometr </li>
+<li> 1x  rozdzielacz audio (opcjonalnie) </li>
+<li> kabelki połączeniowe </li>
 </ul>
 
 ![20210109_183951](https://user-images.githubusercontent.com/75728467/104597755-02522680-5676-11eb-8acb-8ece2e487958.jpg)
